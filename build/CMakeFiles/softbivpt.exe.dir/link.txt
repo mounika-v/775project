@@ -1,0 +1,1 @@
+/usr/bin/c++    -O3 -std=c++0x -march=native    CMakeFiles/softbivpt.exe.dir/src/main.cpp.o CMakeFiles/softbivpt.exe.dir/src/pt.cpp.o CMakeFiles/softbivpt.exe.dir/src/bidir_pt.cpp.o CMakeFiles/softbivpt.exe.dir/src/scene.cpp.o  -o softbivpt.exe -rdynamic 

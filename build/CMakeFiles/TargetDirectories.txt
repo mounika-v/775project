@@ -1,0 +1,1 @@
+/home/krunal/Desktop/CG/softbivpt-master/build/CMakeFiles/softbivpt.exe.dir
